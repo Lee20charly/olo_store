@@ -1,7 +1,7 @@
 export default function Section_1() {
     return (
-    <div>
-            <p className="text-2xl">hello section_1 </p>
+    <div className="mt-2 bg-[#1aba1a] flex justify-around items-center h-[90%]">
+       <input className="bg-white h-10 p-3" type="search" name="Recherche" id="" />
     </div>
     );
 }

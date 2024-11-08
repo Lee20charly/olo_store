@@ -1,7 +1,7 @@
-export default function Home() {
+export default function Tendance() {
     return (
     <div>
-            <p className="text-2xl">hello wold</p>
+            <p className="text-2xl">hello Tendance</p>
     </div>
     );
 }
